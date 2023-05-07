@@ -1,0 +1,41 @@
+body {background-color:rgba(254, 255, 239, 0.7);
+    font-style: italic;
+    font-family:'Courier New', Courier, monospace
+}
+
+.list { 
+      background-color:aliceblue
+}
+.List ul {
+background-color:antiquewhite;
+}
+
+.coolText {
+    color:rgb(39, 26, 26);
+    font-size: 30px;
+
+}
+
+#mainHeader {
+    color: rgb(7, 10, 6);
+    font-size: 40px;
+}
+
+    img {
+        border: 4px solid rgb(20, 23, 19);
+        padding: 3px;
+        margin: 30px;
+    }
+
+.navWrapper {
+    border: solid rgb(20, 23, 19) 3px;
+}
+nav {
+    border: solid rgb(220, 230, 216) 3px ;
+    width: 100%;
+}
+.link {
+    border: solid rgb(230, 209, 2) 3px;
+    width: 100px;
+    text-align: center;
+}

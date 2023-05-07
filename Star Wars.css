@@ -1,0 +1,60 @@
+body {background-color: rgb(19, 16, 16);
+    font-style: italic;
+    font-family:'Courier New', Courier, monospace
+}
+
+.list { 
+      background-color:aliceblue
+}
+.List ul {
+background-color:antiquewhite;
+}
+
+.coolText {
+    color:rgb(230, 220, 16);
+    font-size: 30px;
+
+}
+
+#mainHeader {
+    font-style:italic;
+    color: rgb(230, 230, 16);
+    font-size: 80px;
+    text-align: center;
+}
+
+.headers div h2 {
+    font-style: italic;
+    color:rgb(185, 185, 3); 
+    font-size: 30px;
+}
+
+.headers div h3 {
+    font-style: italic;
+    color:rgb(9, 136, 72); 
+    font-size: 30px;
+}
+
+
+img {
+    border: 4px solid rgba(238, 255, 0, 0.855);
+    padding:10px;
+    margin: 30px;
+}
+.imageWrapper img {
+    border: 4px solid rgba(12, 190, 113, 0.855);
+    padding:10px;
+    margin:30px ;
+}
+.navWrapper {
+    border: solid rgb(13, 17, 12) 3px;
+}
+nav {
+    border: solid 3px gold;
+    width: 40%;
+}
+.link {
+    border: solid rgb(230, 209, 15) 3px;
+    width: 100px;
+    text-align: center;
+}
